@@ -1,5 +1,7 @@
 # 100 - Getting Started
 
+See "Bricklink Studio Tutorial Introduction" at https://www.youtube.com/watch?v=BUxP1A4NLGE
+
 ## 100 - Introduction to Studio
 
 See [README.md](./100/README.md)
